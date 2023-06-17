@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Registration</title>
+	<script src="UpdateDeliveryManProfile.js"></script>
+	<script src="//code.jquery.com/jquery-1.10.2.js"></script> 
+	<script>   
+</script> 
+</head>
+<body onload="update()">
+	
+	<div id="form">
+
+    <form  novalidate onsubmit="return profileupdate()">
+    <label for="Name">Name</label>
+    <input type="text" name="Name" id="Name">
+
+    <form  novalidate onsubmit="return profileupdate()">
+	<label for="UserName">Username</label>
+	<input type="text" name="Username" id="Username">
+
+    
+    <form  novalidate onsubmit="return profileupdate()">
+    <label for="Password">Password</label>
+    <input type="text" name="Password" id="Password">
+
+    <form  novalidate onsubmit="return profileupdate()">
+    <label for="Rating">Rating</label>
+    <input type="number" name="Rating" id="Rating">
+
+    <form  novalidate onsubmit="return profileupdate()">
+    <label for="Location">Location</label>
+    <input type="text" name="Location" id="Location">
+
+    <form  novalidate onsubmit="return profileupdate()">
+    <label for="DeliveryManStatus">DeliveryManStatus</label>
+    <input type="text" name="DeliveryManStatus" id="DeliveryManStatus">
+    
+    <form  novalidate onsubmit="return profileupdate()">
+    <label for="MobileNumber">MobileNumber</label>
+    <input type="text" name="MobileNumber" id="MobileNumber">
+    
+    <form  novalidate onsubmit="return profileupdate()">
+    <label for="DeliverymanType">Deliveryman Type</label>
+    <input type="number" name="dtId" id="dtId">
+    
+	<input type="submit" name="submit" id="submit" value="Update">
+	
+</form>
+<p id="response"></p>
+</div>
+
+</body>
+</html>

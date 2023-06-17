@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Registration</title>
+	<script src="AdminProfileUpdate.js"></script>
+	<script src="//code.jquery.com/jquery-1.10.2.js"></script> 
+	<script>   
+</script> 
+</head>
+<body onload="update()">
+	
+	<div id="form">
+
+    <form  novalidate onsubmit="return profileupdate()">
+    <label for="Name">Name</label>
+    <input type="text" name="Name" id="Name">
+
+    <form  novalidate onsubmit="return profileupdate()">
+	<label for="Username">Username</label>
+	<input type="text" name="Username" id="Username">
+
+    
+    <form  novalidate onsubmit="return profileupdate()">
+    <label for="Password">Password</label>
+    <input type="text" name="Password" id="Password">
+
+    <form  novalidate onsubmit="return profileupdate()">
+    <label for="Email">Email</label>
+    <input type="text" name="Email" id="Email">
+
+ 
+
+    
+    
+	<input type="submit" name="submit" id="submit" value="Update">
+	
+</form>
+<p id="response"></p>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="CreateDeliveryMan.js"></script>
+</head>
+<body>
+    <form onsubmit="return createDeliveryMan()">
+        <input type="text" name="Name" id="Name">
+        <br>
+        <input type="text" name="Location" id="Location">
+        <br>
+        <input type="text" name="DeliveryManStatus" id="DeliveryManStatus">
+        <br>
+        <input type="text" name="MobileNumber" id="MobileNumber">
+        <br>
+        <input type="radio" id="MotorBike" value=1 name="MotorBike">
+        <label for="MotorBike">MotorBike</label><br>
+
+        <input type="radio" id="Courier" value=2 name="Courier">
+        <label for="Courier">Courier</label><br>
+
+
+       
+
+        <input type="submit" name="submit" value="create">
+        </form>
+    <p id="response"></p>
+</body>
+</html>

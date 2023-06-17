@@ -1,0 +1,130 @@
+C:\Users\USER\source\repos\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.dll.config
+C:\Users\USER\source\repos\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.dll
+C:\Users\USER\source\repos\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.pdb
+C:\Users\USER\source\repos\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.CopyComplete
+C:\Users\USER\source\repos\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.dll
+C:\Users\USER\source\repos\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.pdb
+C:\Users\USER\source\repos\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.tbladedagn.resources
+C:\Users\USER\source\repos\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.monthlyincometbladded.resources
+C:\Users\USER\source\repos\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.deliverylogaddedrelchange.resources
+C:\Users\MSN\Desktop\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.dll.config
+C:\Users\MSN\Desktop\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.dll
+C:\Users\MSN\Desktop\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.pdb
+C:\Users\MSN\Desktop\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.dll
+C:\Users\MSN\Desktop\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSN\Desktop\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.xml
+C:\Users\MSN\Desktop\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSN\Desktop\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.AssemblyReference.cache
+C:\Users\MSN\Desktop\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.tbladedagn.resources
+C:\Users\MSN\Desktop\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.monthlyincometbladded.resources
+C:\Users\MSN\Desktop\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.deliverylogaddedrelchange.resources
+C:\Users\MSN\Desktop\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.GenerateResource.cache
+C:\Users\MSN\Desktop\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.CoreCompileInputs.cache
+C:\Users\MSN\Desktop\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.CopyComplete
+C:\Users\MSN\Desktop\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.dll
+C:\Users\MSN\Desktop\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.pdb
+C:\Users\MSN\Desktop\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.CuisineAdded.resources
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.dll.config
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.dll
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.pdb
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.dll
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.xml
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.AssemblyReference.cache
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.tbladedagn.resources
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.monthlyincometbladded.resources
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.deliverylogaddedrelchange.resources
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.CuisineAdded.resources
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.GenerateResource.cache
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.CoreCompileInputs.cache
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.CopyComplete
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.dll
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.pdb
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.chatAded.resources
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.msgAddedToChat.resources
+G:\download\Finalv1_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.feedbackadded.resources
+C:\Users\rakib\Downloads\Finalv1\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.dll.config
+C:\Users\rakib\Downloads\Finalv1\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.dll
+C:\Users\rakib\Downloads\Finalv1\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.pdb
+C:\Users\rakib\Downloads\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.dll
+C:\Users\rakib\Downloads\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rakib\Downloads\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.xml
+C:\Users\rakib\Downloads\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rakib\Downloads\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.AssemblyReference.cache
+C:\Users\rakib\Downloads\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.CoreCompileInputs.cache
+C:\Users\rakib\Downloads\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.CopyComplete
+C:\Users\rakib\Downloads\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.dll
+C:\Users\rakib\Downloads\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.pdb
+C:\Users\rakib\Downloads\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.TableDesign.resources
+C:\Users\rakib\Downloads\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.GenerateResource.cache
+C:\Users\rakib\Downloads\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.DeliveryType.resources
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.dll.config
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.dll
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.pdb
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.dll
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.xml
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.AssemblyReference.cache
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.CoreCompileInputs.cache
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.CopyComplete
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.dll
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.pdb
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.dd.resources
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.GenerateResource.cache
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.tokenuseradded.resources
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.latlanadded.resources
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.feedbackchange.resources
+G:\download\New folder (3)\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.feedback.resources
+C:\Users\rakib\Downloads\FoodDeliveryApp\FoodDeliveryApp\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.dll.config
+C:\Users\rakib\Downloads\FoodDeliveryApp\FoodDeliveryApp\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.dll
+C:\Users\rakib\Downloads\FoodDeliveryApp\FoodDeliveryApp\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.pdb
+C:\Users\rakib\Downloads\FoodDeliveryApp\FoodDeliveryApp\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.dll
+C:\Users\rakib\Downloads\FoodDeliveryApp\FoodDeliveryApp\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rakib\Downloads\FoodDeliveryApp\FoodDeliveryApp\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.xml
+C:\Users\rakib\Downloads\FoodDeliveryApp\FoodDeliveryApp\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rakib\Downloads\FoodDeliveryApp\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.AssemblyReference.cache
+C:\Users\rakib\Downloads\FoodDeliveryApp\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.CoreCompileInputs.cache
+C:\Users\rakib\Downloads\FoodDeliveryApp\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.CopyComplete
+C:\Users\rakib\Downloads\FoodDeliveryApp\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.dll
+C:\Users\rakib\Downloads\FoodDeliveryApp\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.pdb
+C:\Users\rakib\Downloads\FoodDeliveryApp\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.tableadd.resources
+C:\Users\rakib\Downloads\FoodDeliveryApp\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.GenerateResource.cache
+C:\Users\rakib\Downloads\FoodDeliveryApp\FoodDeliveryApp\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.AdminTable.resources
+C:\Users\MSN\Downloads\Finalv1\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.dll.config
+C:\Users\MSN\Downloads\Finalv1\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.dll
+C:\Users\MSN\Downloads\Finalv1\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.pdb
+C:\Users\MSN\Downloads\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.dll
+C:\Users\MSN\Downloads\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSN\Downloads\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.xml
+C:\Users\MSN\Downloads\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSN\Downloads\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.AssemblyReference.cache
+C:\Users\MSN\Downloads\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.CoreCompileInputs.cache
+C:\Users\MSN\Downloads\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.CopyComplete
+C:\Users\MSN\Downloads\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.dll
+C:\Users\MSN\Downloads\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.pdb
+C:\Users\MSN\Downloads\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.initMaruf.resources
+C:\Users\MSN\Downloads\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.GenerateResource.cache
+C:\Users\MSN\Downloads\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.initMaruf2.resources
+C:\Users\rakib\Downloads\Final_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.dll.config
+C:\Users\rakib\Downloads\Final_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.dll
+C:\Users\rakib\Downloads\Final_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\Finalv1DAL.pdb
+C:\Users\rakib\Downloads\Final_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.dll
+C:\Users\rakib\Downloads\Final_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rakib\Downloads\Final_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.xml
+C:\Users\rakib\Downloads\Final_Maruf\Finalv1\Finalv1\Finalv1DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rakib\Downloads\Final_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.AssemblyReference.cache
+C:\Users\rakib\Downloads\Final_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.CoreCompileInputs.cache
+C:\Users\rakib\Downloads\Final_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.CopyComplete
+C:\Users\rakib\Downloads\Final_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.dll
+C:\Users\rakib\Downloads\Final_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.pdb
+C:\Users\rakib\Downloads\Final_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.Migrations.dbAdd.resources
+C:\Users\rakib\Downloads\Final_Maruf\Finalv1\Finalv1\Finalv1DAL\obj\Debug\Finalv1DAL.csproj.GenerateResource.cache

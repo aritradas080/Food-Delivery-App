@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1E16E9DB-C133-408B-A51B-FBBB3039C0C4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Finalv1BLL</RootNamespace>
+    <AssemblyName>Finalv1BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper, Version=10.0.0.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.10.0.0\lib\net461\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="ModelDTOs\AdminDTOs.cs" />
+    <Compile Include="ModelDTOs\AllUserDTO.cs" />
+    <Compile Include="ModelDTOs\ChatDto.cs" />
+    <Compile Include="ModelDTOs\CuisineDTO.cs" />
+    <Compile Include="ModelDTOs\DeliveryLogDTO.cs" />
+    <Compile Include="ModelDTOs\DeliverymanDTO.cs" />
+    <Compile Include="ModelDTOs\DeliverymanTypeDTO.cs" />
+    <Compile Include="ModelDTOs\FeedBackDTO.cs" />
+    <Compile Include="ModelDTOs\MonthlyIncomeDTO.cs" />
+    <Compile Include="ModelDTOs\OrderDetailsDTO.cs" />
+    <Compile Include="ModelDTOs\OrderDTO.cs" />
+    <Compile Include="ModelDTOs\ProductDTO.cs" />
+    <Compile Include="ModelDTOs\RestaurantDTO.cs" />
+    <Compile Include="ModelDTOs\TokenDTO.cs" />
+    <Compile Include="ModelDTOs\UserDTO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\AdminService.cs" />
+    <Compile Include="Services\AuthService.cs" />
+    <Compile Include="Services\ChatService.cs" />
+    <Compile Include="Services\CuisineService.cs" />
+    <Compile Include="Services\DeliveryLogService.cs" />
+    <Compile Include="Services\DeliverymanService.cs" />
+    <Compile Include="Services\DeliverymanTypeService.cs" />
+    <Compile Include="Services\FeedBackService.cs" />
+    <Compile Include="Services\LogService.cs" />
+    <Compile Include="Services\MonthlyIncomeService.cs" />
+    <Compile Include="Services\OrderDetailsService.cs" />
+    <Compile Include="Services\OrderService.cs" />
+    <Compile Include="Services\ProductService.cs" />
+    <Compile Include="Services\RestaurantService.cs" />
+    <Compile Include="Services\UserService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Finalv1DAL\Finalv1DAL.csproj">
+      <Project>{f45c087b-e7a2-444b-890e-c6cf07f446b3}</Project>
+      <Name>Finalv1DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
